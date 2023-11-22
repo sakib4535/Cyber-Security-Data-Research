@@ -26,6 +26,9 @@ The primary goal of this project is to leverage machine learning techniques to s
 - **Accuracy**: Achieved an accuracy score of 86%.
 - **ROC-AUC**: Demonstrated an impressive ROC-AUC of 0.95, showcasing superior performance in distinguishing classes.
 
+![Image Description](Accuracy-01.png)
+
+
 These models showcase competitive accuracy and robustness in their ability to classify instances, with XGBoost leading in both accuracy and ROC-AUC among the evaluated algorithms.
 
 ### Statistical Analysis 📊
@@ -51,6 +54,7 @@ These models showcase competitive accuracy and robustness in their ability to cl
 - **XGBoost**: 0.95
 
 ![Image Description](Feature_Importance.png)
+![Image Description](ROC_Comparisons.png)
 
 
 ## 🚀 Getting Started
