@@ -6,6 +6,12 @@ Welcome to the Cybersecurity Machine Learning project repository! This project d
 
 The primary goal of this project is to leverage machine learning techniques to scrutinize cybersecurity datasets, focusing on features like `inter_api_access_duration(sec)`, `api_access_uniqueness`, `sequence_length(count)`, `vsession_duration(min)`, `ip_type`, `behavior`, `behavior_type`, `num_sessions`, `num_users`, `num_unique_apis`, and more.
 
+The dataset serves as a window into the intricate dynamics between microservice-based applications and their gateway to the digital world—Application Programming Interfaces (APIs). In this realm, APIs act as the linchpin, facilitating seamless interactions between applications and programmatic functions.
+
+Here, I delve into the vulnerabilities that lie within this seemingly robust structure. Attackers often exploit these APIs, manipulating the underlying business logic. This dataset sheds light on the stark differences in user behavior—drawing a clear line between normal routines and the subtle yet impactful maneuvers of attackers.
+
+With hundreds of APIs orchestrating intricate sequences, variability emerges from various sources: browser refreshes, network errors, or session inconsistencies. These complexities weave together to form access graphs—a reflection of user behavior over time. Analyzing these graphs unveils attack patterns and anomalies, offering a unique perspective into understanding security threats.
+
 ## 📈 Analysis Results
 
 # Model Performance 🤖
