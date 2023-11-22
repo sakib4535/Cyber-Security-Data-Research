@@ -50,7 +50,7 @@ These models showcase competitive accuracy and robustness in their ability to cl
 - **Gradient Boosting**: 0.94
 - **XGBoost**: 0.95
 
-![Image Description]([relative_path_to_image](https://github.com/sakib4535/Cyber-Security-Data-Research/blob/main/Feature_Importance.png))
+![Image Description]([Feature_Importance.png))
 
 
 ## 🚀 Getting Started
